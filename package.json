@@ -1,0 +1,28 @@
+{
+  "name": "de.codeking.heatingschedule",
+  "version": "0.0.1",
+  "description": "Homey Heating Schedule",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeKingLabs/de.codeking.heatingschedule.git"
+  },
+  "keywords": [
+    "homey",
+    "heating",
+    "schedule"
+  ],
+  "author": "Frank Herrmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeKingLabs/de.codeking.heatingschedule/issues"
+  },
+  "homepage": "https://github.com/CodeKingLabs/de.codeking.heatingschedule#readme"
+}
